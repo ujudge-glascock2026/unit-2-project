@@ -1,0 +1,26 @@
+body {
+  background: yellow;
+}
+p {
+  color: black;
+  line-height: 0.5
+}
+h1 {
+  font-weight: bold;
+  font-style:oblique;
+  font-family: monospace
+}
+.menu-pictures {
+  height: 200px;
+  flex: auto;
+  flex-direction:column;
+  justify-content:center;
+  align-content: center;
+  float: center
+  
+}
+
+div {
+  width: 300px;
+  margin:auto
+}
